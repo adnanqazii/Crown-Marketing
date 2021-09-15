@@ -5,8 +5,8 @@ import Form from './components/Form/Form';
 import Herobody from "./components/herobody/Herobody";
 import Multislider from './components/multislider/Multislider';
 
-import Slider from "./components/slider/Slider";
-import Regions from './components/Regions/Regions';
+import Slider from "./components/slider/Slider";//include yourself
+import Regions from './components/Regions/Regions';//include yourself
 import Textstrip from "./components/textstrip/Textstrip";
 import Services from './components/Services/Services';
 
@@ -34,9 +34,6 @@ function App() {
     <div>
       <div className="margin">
       <Drawer />
-      </div>
-      <div className="margin">
-      <Slider />
       </div>
       <div className="margin">
       <Herobody />
