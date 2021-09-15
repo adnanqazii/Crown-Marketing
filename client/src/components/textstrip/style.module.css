@@ -1,0 +1,19 @@
+.strip {
+    /* background-color: rgba(42, 100, 24, 0.596); */
+    background-color: #64927c;
+ 
+    color: white;
+    z-index: 0;
+    /* position: relative; */
+}
+.strip h1 {
+        color: white;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+        border-radius: 2px;
+        display: inline-block;
+
+}
+.bstrip {
+    background-color: #343a40e0;
+    color: white;
+}

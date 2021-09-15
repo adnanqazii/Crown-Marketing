@@ -1,0 +1,4 @@
+.link,.link:hover,.link:active {
+    color: inherit;
+    text-decoration: none;
+}

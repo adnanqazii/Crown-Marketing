@@ -1,0 +1,21 @@
+*,*::after,*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding:0;
+  max-width: 100%;
+}
+.margin {
+  margin-bottom: 5rem;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  text-align: justify;
+  font-family: Times, "Times New Roman", serif;
+}
+h1,h2 {
+  color: #9b6233;
+}
+
